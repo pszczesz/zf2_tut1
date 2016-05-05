@@ -13,8 +13,6 @@
  */
 
 return array(
-    'db' => array(
- 'username' => 'zf2',
- 'password' => 'zf2',
+   
  ),
  );
